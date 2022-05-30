@@ -1,7 +1,7 @@
 # hello, world!
-currently I
-* study Information Networks at Aalto University
-* work at [Justin Group Oy](https://justin.fi) as Product Development Trainee
+currently I'm
+* an Information Networks master's student at Aalto University
+* working at [Justin Group Oy](https://justin.fi) as Junior Consultant
 
 ## links
 * [my blog](https://sampo.website/blog/en/)
